@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<AffineMatrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    -1.2455934443784390e+03 -2.1842008797360657e+02
+    2.3686298211950411e+03 2.2034609973528298e+01 3.4278477231454772e+01
+    -6.7313540408329854e+03 -1.2187232649074839e-01
+    -7.5882274054916238e-02 1.</data></AffineMatrix>
+</opencv_storage>
